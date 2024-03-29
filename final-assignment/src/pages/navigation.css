@@ -1,0 +1,16 @@
+/* mainNavigation.css */
+.nav-link {
+    transition: color 0.3s ease, background-color 0.3s ease;
+    color: #000; /* Default link color */
+  }
+  
+  .nav-link:hover {
+    color: #fff; /* Link color on hover */
+    background-color: #007bff; /* Background color on hover */
+  }
+  
+  .nav-link.active {
+    color: #fff; /* Active link color */
+    background-color: #1c87e4; /* Background color of active link */
+  }
+  

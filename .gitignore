@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Build files
+/dist
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Mac OS files
+.DS_Store
+
+# Log files
+logs
+*.log
+npm-debug.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
