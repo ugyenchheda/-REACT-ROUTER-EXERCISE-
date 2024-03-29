@@ -39,7 +39,7 @@ const Home = ({ isHome }) => {
         <Card className="my-4">
           <Card.Body>
             <Card.Title className="h4 mb-4">Welcome !</Card.Title>
-            <Card.Subtitle className="mb-3 text-muted">>Home Page</Card.Subtitle>
+            <Card.Subtitle className="mb-3 text-muted">Home Page</Card.Subtitle>
             <Card.Text className="mb-4">
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
             standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make 
